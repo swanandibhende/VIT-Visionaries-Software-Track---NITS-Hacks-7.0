@@ -1,4 +1,7 @@
 # VIT-Visionaries-Software-Track---NITS-Hacks-7.0
 
-https://swanandibhende.github.io/VIT-Visionaries-Software-Track---NITS-Hacks-7.0/
-https://piyush07mishra.github.io/VITProjectHackathon/
+old: https://swanandibhende.github.io/VIT-Visionaries-Software-Track---NITS-Hacks-7.0/
+
+
+
+new: https://piyush07mishra.github.io/VITProjectHackathon/
