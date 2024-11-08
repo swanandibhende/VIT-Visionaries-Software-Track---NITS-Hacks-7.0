@@ -1,2 +1,3 @@
 # VIT-Visionaries-Software-Track---NITS-Hacks-7.0
-Team contain 5 emambers from vit
+Team contains 5 members from Vishwakarma Institute of Technology, Pune.
+
